@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventBusExample</string>
+    <string name="loading">Loading...Please Wait</string>
+    <string name="networkError">Please check your internet connection</string>
+</resources>
